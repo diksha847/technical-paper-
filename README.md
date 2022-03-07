@@ -1,1 +1,1 @@
-# technical-paper-
+# Technical Paper
