@@ -1,4 +1,13 @@
-# Technical Paper
+# Table Of Contents 
+>1.What are messaging queues?
+
+>2.Why are messaging queues used ?
+
+>3.What are popular tools ?
+
+>4.What is Enterprise message bus ?
+
+>References
 ## What are messaging queues?
 > Message queuing allows apps to connect with one another by sending messages.When the destination programme is busy or not connected, the message queue provides interim message storage.A message queue's basic architecture is straightforward:producers are client programmes that create messages and send them to the queue.A consumer connects to the queue and retrieves the messages that need to be processed. Messages are stored in the queue until they are retrieved by the consumer.Asynchronous communications protocol is provided by a message queue, which is a system that places a message on a queue and does not require an immediate response to continue processing. Asynchronous communication is best exemplified by email.When an email is sent, the sender can move on to other tasks without waiting for a response from the recipient.This method of managing messages separates the producer and the consumer,allowing them to interact with the message queue independently.
 > ![](https://github.com/diksha847/technical-paper-/blob/main/thumb-mq.jpg)
