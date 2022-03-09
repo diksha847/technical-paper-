@@ -44,9 +44,12 @@ As a result, it can be used for remote computing as well as component integratio
 The/:best way to think of this tool is as a series of switches that can route a message across 
 application components based on the contents of the message and the implementation of business policies.
 ## References 
-https://www.cloudamqp.com/blog/what-is-message-queuing.html
-https://aws.amazon.com/message-queue/benefits/#:~:text=Message%20queues%20enable%20asynchronous%20communication,only%20when%20they%20are%20available.
-https://www.techtarget.com/searchapparchitecture/definition/Enterprise-Service-Bus-ESB#:~:text=An%20enterprise%20service%20bus%20(ESB,structural%20and%20business%20policy%20rules.
-https://www.g2.com/categories/message-queue-mq
+1.https://www.cloudamqp.com/blog/what-is-message-queuing.html
+
+2.https://aws.amazon.com/message-queue/benefits/#:~:text=Message%20queues%20enable%20asynchronous%20communication,only%20when%20they%20are%20available.
+
+3.https://www.techtarget.com/searchapparchitecture/definition/Enterprise-Service-Bus-ESB#:~:text=An%20enterprise%20service%20bus%20(ESB,structural%20and%20business%20policy%20rules.
+
+4.https://www.g2.com/categories/message-queue-mq
     
 
